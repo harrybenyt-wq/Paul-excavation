@@ -1,8 +1,8 @@
 const DEFAULT_PHOTOS = [
-  "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1543778929-5b2c0882b12b?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1545324419-e1a6f29c6f18?auto=format&fit=crop&w=900&q=80"
+  "710848012_1030923566127966_5498724316692358561_n.jpg",
+  "713303149_2167298204036805_2631653210056213586_n.jpg",
+  "715058152_985101861169909_507492742169073460_n.jpg",
+  "718815527_1711658340287542_5888378489225439318_n.jpg"
 ];
 
 function getGalleryPhotos() {
